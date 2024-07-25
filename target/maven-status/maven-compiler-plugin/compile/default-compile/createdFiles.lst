@@ -1,0 +1,17 @@
+br\com\jcmar\dao\generic\GenericDAO.class
+br\com\jcmar\controller\ClienteController.class
+br\com\jcmar\domain\Persistente.class
+br\com\jcmar\dao\ClienteDAO.class
+br\com\jcmar\service\ClienteService.class
+br\com\jcmar\exceptions\TipoElementoNaoConhecidoException.class
+br\com\jcmar\services\generic\IGenericService.class
+br\com\jcmar\dao\IClienteDAO.class
+br\com\jcmar\domain\Cliente.class
+br\com\jcmar\controller\IndexController.class
+br\com\jcmar\exceptions\TableException.class
+br\com\jcmar\exceptions\TipoChaveNaoEncontradaException.class
+br\com\jcmar\exceptions\MaisDeUmRegistroException.class
+br\com\jcmar\services\generic\GenericService.class
+br\com\jcmar\exceptions\DAOException.class
+br\com\jcmar\dao\generic\IGenericDAO.class
+br\com\jcmar\service\IClienteService.class

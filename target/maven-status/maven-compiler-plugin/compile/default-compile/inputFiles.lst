@@ -1,0 +1,17 @@
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\dao\IClienteDAO.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\services\generic\GenericService.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\controller\ClienteController.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\service\ClienteService.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\controller\IndexController.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\dao\generic\GenericDAO.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\dao\ClienteDAO.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\exceptions\MaisDeUmRegistroException.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\exceptions\DAOException.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\dao\generic\IGenericDAO.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\domain\Persistente.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\exceptions\TableException.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\domain\Cliente.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\exceptions\TipoElementoNaoConhecidoException.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\service\IClienteService.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\services\generic\IGenericService.java
+C:\mvSALVO\tarefa38\src\main\java\br\com\jcmar\exceptions\TipoChaveNaoEncontradaException.java
